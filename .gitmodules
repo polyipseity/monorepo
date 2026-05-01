@@ -1,0 +1,132 @@
+[submodule "ext/ampcast"]
+	path = ext/ampcast
+	url = ../ext.ampcast.git
+	branch = main
+[submodule "ext/Auto-2FA"]
+	path = ext/Auto-2FA
+	url = ../ext.Auto-2FA.git
+	branch = main
+[submodule "ext/canvas-student-data-export"]
+	path = ext/canvas-student-data-export
+	url = ../ext.canvas-student-data-export.git
+	branch = forks/polyipseity
+[submodule "ext/CCFD_mining"]
+	path = ext/CCFD_mining
+	url = ../ext.CCFD_mining.git
+	branch = main
+[submodule "ext/claude-code-showcase"]
+	path = ext/claude-code-showcase
+	url = ../ext.claude-code-showcase.git
+	branch = main
+[submodule "ext/discord-music-rpc"]
+	path = ext/discord-music-rpc
+	url = ../ext.discord-music-rpc.git
+	branch = forks/polyipseity
+[submodule "ext/obsidian-api"]
+	path = ext/obsidian-api
+	url = ../ext.obsidian-api.git
+	branch = master
+[submodule "ext/obsidian-releases"]
+	path = ext/obsidian-releases
+	url = ../ext.obsidian-releases.git
+	branch = master
+[submodule "ext/piazza-to-latex"]
+	path = ext/piazza-to-latex
+	url = ../ext.piazza-to-latex.git
+	branch = forks/polyipseity
+[submodule "ext/rsgain"]
+	path = ext/rsgain
+	url = ../ext.rsgain.git
+	branch = master
+[submodule "ext/sms-tools"]
+	path = ext/sms-tools
+	url = ../ext.sms-tools.git
+	branch = forks/polyipseity
+[submodule "ext/YTMusic2listenbrainz.py"]
+	path = ext/YTMusic2listenbrainz.py
+	url = ../ext.YTMusic2listenbrainz.py.git
+	branch = main
+[submodule "self/arts"]
+	path = self/arts
+	url = ../arts.git
+	branch = main
+[submodule "self/bccelerator"]
+	path = self/bccelerator
+	url = ../bccelerator.git
+	branch = main
+[submodule "self/capture-the-flag"]
+	path = self/capture-the-flag
+	url = ../capture-the-flag.git
+	branch = main
+[submodule "self/esbuild-compress"]
+	path = self/esbuild-compress
+	url = ../esbuild-compress.git
+	branch = main
+[submodule "self/esbuild-plugin-inline-worker"]
+	path = self/esbuild-plugin-inline-worker
+	url = ../esbuild-plugin-inline-worker.git
+	branch = main
+[submodule "self/hkust-comp-3021"]
+	path = self/hkust-comp-3021
+	url = ../hkust-comp-3021.git
+	branch = main
+[submodule "self/hkust-comp-3031-labs"]
+	path = self/hkust-comp-3031-labs
+	url = ../hkust-comp-3031-labs.git
+	branch = main
+[submodule "self/hkust-comp-3111h"]
+	path = self/hkust-comp-3111h
+	url = ../hkust-comp-3111h.git
+	branch = main
+[submodule "self/hkust-comp-3111h-labs"]
+	path = self/hkust-comp-3111h-labs
+	url = ../hkust-comp-3111h-labs.git
+	branch = main
+[submodule "self/hkust-comp-4321"]
+	path = self/hkust-comp-4321
+	url = ../hkust-comp-4321.git
+	branch = main
+[submodule "self/hkust-rdc-2023-group-2"]
+	path = self/hkust-rdc-2023-group-2
+	url = ../hkust-rdc-2023-group-2.git
+	branch = main
+[submodule "self/information"]
+	path = self/information
+	url = ../information.git
+	branch = main
+[submodule "self/ledger"]
+	path = self/ledger
+	url = ../ledger.git
+	branch = main
+[submodule "self/mediapm"]
+	path = self/mediapm
+	url = ../mediapm.git
+	branch = main
+[submodule "self/obsidian-monorepo"]
+	path = self/obsidian-monorepo
+	url = ../obsidian-monorepo.git
+	branch = main
+[submodule "self/polyipseity"]
+	path = self/polyipseity
+	url = ../polyipseity.git
+	branch = main
+[submodule "self/pyarchivist"]
+	path = self/pyarchivist
+	url = ../pyarchivist.git
+	branch = main
+[submodule "self/pytextgen"]
+	path = self/pytextgen
+	url = ../pytextgen.git
+	branch = main
+[submodule "self/scrobble-importers"]
+	path = self/scrobble-importers
+	url = ../scrobble-importers.git
+	branch = main
+[submodule "self/templates"]
+	path = self/templates
+	url = ../templates.git
+	branch = main
+[submodule "self/test"]
+	path = self/test
+	url = ../test.git
+	branch = main
