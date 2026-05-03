@@ -102,6 +102,10 @@
 	path = self/mediapm
 	url = ../mediapm.git
 	branch = main
+[submodule "self/nucleus"]
+	path = self/nucleus
+	url = ../nucleus.git
+	branch = main
 [submodule "self/obsidian-monorepo"]
 	path = self/obsidian-monorepo
 	url = ../obsidian-monorepo.git
