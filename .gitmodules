@@ -26,10 +26,6 @@
 	path = ext/obsidian-api
 	url = ../ext.obsidian-api.git
 	branch = master
-[submodule "ext/obsidian-releases"]
-	path = ext/obsidian-releases
-	url = ../ext.obsidian-releases.git
-	branch = master
 [submodule "ext/piazza-to-latex"]
 	path = ext/piazza-to-latex
 	url = ../ext.piazza-to-latex.git
@@ -101,6 +97,10 @@
 [submodule "self/ledger"]
 	path = self/ledger
 	url = ../ledger.git
+	branch = main
+[submodule "self/llm-tracer"]
+	path = self/llm-tracer
+	url = ../llm-tracer.git
 	branch = main
 [submodule "self/mediapm"]
 	path = self/mediapm
