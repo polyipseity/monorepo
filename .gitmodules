@@ -98,6 +98,10 @@
 	path = self/ledger
 	url = ../ledger.git
 	branch = main
+[submodule "self/llm-tracer"]
+	path = self/llm-tracer
+	url = ../llm-tracer.git
+	branch = main
 [submodule "self/mediapm"]
 	path = self/mediapm
 	url = ../mediapm.git
