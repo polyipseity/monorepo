@@ -110,6 +110,10 @@
 	path = self/llm-tracer
 	url = ../llm-tracer.git
 	branch = main
+[submodule "self/media-catalog"]
+	path = self/media-catalog
+	url = ../media-catalog.git
+	branch = main
 [submodule "self/mediapm"]
 	path = self/mediapm
 	url = ../mediapm.git
