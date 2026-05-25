@@ -22,6 +22,10 @@
 	path = ext/discord-music-rpc
 	url = ../ext.discord-music-rpc.git
 	branch = forks/polyipseity
+[submodule "ext/Fido"]
+	path = ext/Fido
+	url = ../ext.Fido.git
+	branch = master
 [submodule "ext/obsidian-api"]
 	path = ext/obsidian-api
 	url = ../ext.obsidian-api.git
