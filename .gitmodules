@@ -46,6 +46,10 @@
 	path = ext/sms-tools
 	url = ../ext.sms-tools.git
 	branch = forks/polyipseity
+[submodule "ext/SteamDesktopAuthenticator"]
+	path = ext/SteamDesktopAuthenticator
+	url = ../ext.SteamDesktopAuthenticator.git
+	branch = master
 [submodule "ext/YTMusic2listenbrainz.py"]
 	path = ext/YTMusic2listenbrainz.py
 	url = ../ext.YTMusic2listenbrainz.py.git
