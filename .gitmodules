@@ -26,6 +26,10 @@
 	path = ext/Fido
 	url = ../ext.Fido.git
 	branch = master
+[submodule "ext/ntfs-3g"]
+	path = ext/ntfs-3g
+	url = ../ext.ntfs-3g.git
+	branch = forks/polyipseity
 [submodule "ext/obsidian-api"]
 	path = ext/obsidian-api
 	url = ../ext.obsidian-api.git
@@ -34,6 +38,10 @@
 	path = ext/piazza-to-latex
 	url = ../ext.piazza-to-latex.git
 	branch = forks/polyipseity
+[submodule "ext/pypresence"]
+	path = ext/pypresence
+	url = ../ext.pypresence.git
+	branch = master
 [submodule "ext/qvm-create-windows-qube"]
 	path = ext/qvm-create-windows-qube
 	url = ../ext.qvm-create-windows-qube.git
