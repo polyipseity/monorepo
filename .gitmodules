@@ -22,6 +22,10 @@
 	path = ext/discord-music-rpc
 	url = ../ext.discord-music-rpc.git
 	branch = forks/polyipseity
+[submodule "ext/edbox"]
+	path = ext/edbox
+	url = ../ext.edbox.git
+	branch = main
 [submodule "ext/Fido"]
 	path = ext/Fido
 	url = ../ext.Fido.git
