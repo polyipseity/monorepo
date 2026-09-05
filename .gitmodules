@@ -50,6 +50,10 @@
 	path = ext/qvm-create-windows-qube
 	url = ../ext.qvm-create-windows-qube.git
 	branch = master
+[submodule "ext/RimSort"]
+	path = ext/RimSort
+	url = ../ext.RimSort.git
+	branch = main
 [submodule "ext/rsgain"]
 	path = ext/rsgain
 	url = ../ext.rsgain.git
